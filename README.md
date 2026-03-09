@@ -38,6 +38,13 @@ Product Funnel Analysis
 Data Visualization
 
 ## Dashboard Preview
+
+### Product Overview
+![Product Overview](product_overview_dashboard.png)
+
+### Revenue & Cohort Analysis
+![Revenue Cohort Analysis](revenue_cohort_analysis.png)
+
 ## Analytical Insights
 
 ### Acquisition Channel Performance
@@ -57,9 +64,3 @@ The average time to activation was approximately **2.66 days**, indicating that 
 
 ## Business Implications
 The analysis suggests that improving **long-term retention and engagement** may provide greater impact than further optimizing onboarding. Additionally, strengthening referral programs could improve acquisition efficiency by attracting higher-quality users.
-### Product Overview
-![Product Overview](product_overview_dashboard.png)
-
-### Revenue & Cohort Analysis
-![Revenue Cohort Analysis](revenue_cohort_analysis.png)
-
