@@ -36,3 +36,11 @@ DAX
 Cohort Analysis  
 Product Funnel Analysis  
 Data Visualization
+
+## Dashboard Preview
+
+### Product Overview
+![Product Overview](product_overview_dashboard.png)
+
+### Revenue & Cohort Analysis
+![Revenue Cohort Analysis](revenue_cohort_analysis_dashboard.png)
