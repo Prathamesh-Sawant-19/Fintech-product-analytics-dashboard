@@ -40,7 +40,8 @@ Data Visualization
 ## Dashboard Preview
 
 ### Product Overview
-![Product Overview](Product Overview Dashboard.png)
+![Product Overview](product_overview_dashboard.png)
 
 ### Revenue & Cohort Analysis
-![Revenue Cohort Analysis](Revenue & Cohort Analysis.png)
+![Revenue Cohort Analysis](revenue_cohort_analysis.png)
+
